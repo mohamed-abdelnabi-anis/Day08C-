@@ -1,0 +1,15 @@
+C:\Console App\Day07\Day08C#Solution\Day08C#\bin\Debug\net5.0\Day08C#.exe
+C:\Console App\Day07\Day08C#Solution\Day08C#\bin\Debug\net5.0\Day08C#.deps.json
+C:\Console App\Day07\Day08C#Solution\Day08C#\bin\Debug\net5.0\Day08C#.runtimeconfig.json
+C:\Console App\Day07\Day08C#Solution\Day08C#\bin\Debug\net5.0\Day08C#.runtimeconfig.dev.json
+C:\Console App\Day07\Day08C#Solution\Day08C#\bin\Debug\net5.0\Day08C#.dll
+C:\Console App\Day07\Day08C#Solution\Day08C#\bin\Debug\net5.0\Day08C#.pdb
+C:\Console App\Day07\Day08C#Solution\Day08C#\obj\Debug\net5.0\Day08C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Console App\Day07\Day08C#Solution\Day08C#\obj\Debug\net5.0\Day08C#.AssemblyInfoInputs.cache
+C:\Console App\Day07\Day08C#Solution\Day08C#\obj\Debug\net5.0\Day08C#.AssemblyInfo.cs
+C:\Console App\Day07\Day08C#Solution\Day08C#\obj\Debug\net5.0\Day08C#.csproj.CoreCompileInputs.cache
+C:\Console App\Day07\Day08C#Solution\Day08C#\obj\Debug\net5.0\Day08C#.dll
+C:\Console App\Day07\Day08C#Solution\Day08C#\obj\Debug\net5.0\refint\Day08C#.dll
+C:\Console App\Day07\Day08C#Solution\Day08C#\obj\Debug\net5.0\Day08C#.pdb
+C:\Console App\Day07\Day08C#Solution\Day08C#\obj\Debug\net5.0\Day08C#.genruntimeconfig.cache
+C:\Console App\Day07\Day08C#Solution\Day08C#\obj\Debug\net5.0\ref\Day08C#.dll

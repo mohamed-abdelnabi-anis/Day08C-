@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Console App\\Day07\\Day08C#Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\geometricshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\geometricshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\ishapeseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\ishapeseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\shape1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\shape1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|c:\\console app\\day07\\day08c#solution\\day08c#\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA812F5-C966-482A-A3ED-30CBF385FE94}|Day08C#\\Day08C#.csproj|solutionrelative:day08c#\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeometricShape.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\GeometricShape.cs",
+              "RelativeDocumentMoniker": "Day08C#\\GeometricShape.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\GeometricShape.cs",
+              "RelativeToolTip": "Day08C#\\GeometricShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:15:48.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape1.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Shape1.cs",
+              "RelativeDocumentMoniker": "Day08C#\\Shape1.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Shape1.cs",
+              "RelativeToolTip": "Day08C#\\Shape1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:17:47.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShapeSeries.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\IShapeSeries.cs",
+              "RelativeDocumentMoniker": "Day08C#\\IShapeSeries.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\IShapeSeries.cs",
+              "RelativeToolTip": "Day08C#\\IShapeSeries.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:00:25.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Book.cs",
+              "RelativeDocumentMoniker": "Day08C#\\Book.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Book.cs",
+              "RelativeToolTip": "Day08C#\\Book.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:45:55.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Account.cs",
+              "RelativeDocumentMoniker": "Day08C#\\Account.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Account.cs",
+              "RelativeToolTip": "Day08C#\\Account.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:24:54.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWalkable.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\IWalkable.cs",
+              "RelativeDocumentMoniker": "Day08C#\\IWalkable.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\IWalkable.cs",
+              "RelativeToolTip": "Day08C#\\IWalkable.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:11:11.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Student.cs",
+              "RelativeDocumentMoniker": "Day08C#\\Student.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Student.cs",
+              "RelativeToolTip": "Day08C#\\Student.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:58:57.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Product.cs",
+              "RelativeDocumentMoniker": "Day08C#\\Product.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Product.cs",
+              "RelativeToolTip": "Day08C#\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:32:04.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Shape.cs",
+              "RelativeDocumentMoniker": "Day08C#\\Shape.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Shape.cs",
+              "RelativeToolTip": "Day08C#\\Shape.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:29:23.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Day08C#\\IVehicle.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\IVehicle.cs",
+              "RelativeToolTip": "Day08C#\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:18:02.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Program.cs",
+              "RelativeDocumentMoniker": "Day08C#\\Program.cs",
+              "ToolTip": "C:\\Console App\\Day07\\Day08C#Solution\\Day08C#\\Program.cs",
+              "RelativeToolTip": "Day08C#\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAALIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:03:12.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
